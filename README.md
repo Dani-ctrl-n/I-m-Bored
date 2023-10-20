@@ -5,8 +5,10 @@ Welcome to the I'm bored Web App! This application is designed to help you find 
 ## How to Use
 
 1. **Getting Started**:
+   
+- run `npm install` to install all the dependencies
+- run `npm run nodemon`
 
-   - Access the Boredom Buster Web App by visiting [boredombuster.example.com](https://boredombuster.example.com).
 
 2. **Select Activity Type**:
 
@@ -23,7 +25,6 @@ Welcome to the I'm bored Web App! This application is designed to help you find 
 5. **Enjoy the Fun**:
    - Whether you're looking for a solo adventure, a family bonding experience, or a group challenge, you'll find something to do.
 
-## Installation
 
-- run `npm install` to install all the dependencies
-- run `npm run nodemon`
+
+
